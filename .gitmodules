@@ -1,0 +1,3 @@
+[submodule "json-pack/lib/json-mode"]
+	path = json-pack/lib/json-mode
+	url = https://github.com/joshwnj/json-mode.git
