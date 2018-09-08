@@ -1,3 +1,6 @@
 [submodule "json-pack/lib/json-mode"]
 	path = json-pack/lib/json-mode
 	url = https://github.com/farthVader91/json-mode.git
+[submodule "folding-pack/lib/yafolding.el"]
+	path = folding-pack/lib/yafolding.el
+	url = https://github.com/zenozeng/yafolding.el.git
